@@ -1,0 +1,2 @@
+# TwitterSearch
+Twitter上の情報を分析できるGUIアプリケーション
